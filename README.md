@@ -7,3 +7,4 @@
 
 
 ![](https://osucomplete.org/renders/profile-basics?user_id=32472759&category=mania-ranked-specifics-4k)
+![](https://osucomplete.org/renders/profile-yearly?user_id=32472759&category=mania-ranked-specifics-4k)
