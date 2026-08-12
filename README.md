@@ -7,6 +7,6 @@
 
 
 <iframe
-  src="https://osucomplete.org/renders/profile-basics/html?user_id=32472759&category=mania-ranked-specifics-4k">
-  width=70%
+  src="https://osucomplete.org/renders/profile-basics/html?user_id=32472759&category=mania-ranked-specifics-4k"
+  width=70%>
 </iframe>
